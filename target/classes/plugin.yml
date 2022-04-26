@@ -1,0 +1,6 @@
+name: AntiAirOffHand
+version: '1.0-SNAPSHOT'
+main: com.special70.antioffhand.AntiOffHand
+api-version: 1.17
+authors: [ Special70 ]
+description: Prevents F Offhandswap if you don't have items in your mainhand/offhand
